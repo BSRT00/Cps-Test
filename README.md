@@ -7,10 +7,12 @@ Cps test built in python with tkinter
 * Custom setting for a specific time
 
 <div id="cover">
+
 <img src="https://github.com/BSRT00/Cps-test/blob/main/images/1.png?raw=true">
 <img src="https://github.com/BSRT00/Cps-test/blob/main/images/2.png?raw=true">
 <img src="https://github.com/BSRT00/Cps-test/blob/main/images/3.png?raw=true">
 <img src="https://github.com/BSRT00/Cps-test/blob/main/images/4.png?raw=true">
+
 </div>
 
 ## requirements
@@ -18,11 +20,11 @@ Cps test built in python with tkinter
   ```sh
   pip install tk
   ```
-  Then run <a href="https://github.com/BSRT00/Cps-test/blob/main/Main.py">Main.py</a> in python 
+  Then run <a href="https://github.com/BSRT00/Cps-test/blob/main/Main.py">main.py</a> in python 
 
 ## Info
 The code could be improved massively to make it less lines of code and make it more efficient.
 
 ## License
 
-Distributed under the GNU License. See `LICENCING` for more information.
+Distributed under the GNU License. See `LICENSE` for more information.
