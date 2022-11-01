@@ -20,7 +20,7 @@ Cps test built in python with tkinter
   ```sh
   pip install tk
   ```
-  Then run <a href="https://github.com/BSRT00/Cps-test/blob/main/Main.py">main.py</a> in python 
+  Then run <a href="https://github.com/BSRT00/Cps-Test/blob/main/main.py">main.py</a> in python 
 
 ## Info
 The code could be improved massively to make it less lines of code and make it more efficient.
